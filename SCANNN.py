@@ -7,8 +7,8 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
-api_url = "http://52.141.4.3:5000"
-token_url = "http://52.141.4.3:8000"
+api_url = "http://IP:PORT"
+token_url = "http://IP:PORT"
 
 
 def Port_Scan(host, port):
