@@ -4,7 +4,6 @@ import json
 import argparse
 import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
-
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 api_url = "http://IP:PORT"
