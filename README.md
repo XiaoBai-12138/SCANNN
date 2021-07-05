@@ -26,6 +26,8 @@
 
 ## API
 
+#### 开启API
+
 ​		接收任务API：程序目录执行：
     `python3 run.py`
 
@@ -35,6 +37,8 @@
 ​		设置API后去SCANNN.py修改API地址
 
 ​		PS：为防止连接断开导致API终止推荐使用screen软件创建新屏幕执行
+
+​		设置API后去SCANNN.py修改API地址
 
 ## 示例
 
