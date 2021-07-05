@@ -26,7 +26,7 @@
 
 ​		接收任务API：程序目录执行：python3 run.py
 
-​		回调API：程序目录执行：mkdir PORT_SCAN_JSON && python3 -m http.server 8000
+​		回调任务API：程序目录执行：mkdir PORT_SCAN_JSON && python3 -m http.server 8000
 
 ​		设置API后去SCANNN.py修改API地址
 
