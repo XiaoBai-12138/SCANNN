@@ -12,21 +12,23 @@
 
 ### 	Debian/Ubuntu：
 
-​			apt install masscan python3 libpcap-dev python3-pip
+​			`apt install masscan python3 libpcap-dev python3-pip`
 
 ### 	Centos：
 
-​			yum masscan python3 libpcap-dev python3-pip
+​			`yum masscan python3 libpcap-dev python3-pip`
 
 ### 	PIP：
 
-​			pip3 install requests
+​			`pip3 install requests`
 
 ## API
 
-​		接收任务API：程序目录执行：python3 run.py
+​		接收任务API：程序目录执行：
+    `python3 run.py`
 
-​		回调任务API：程序目录执行：mkdir PORT_SCAN_JSON && python3 -m http.server 8000
+​		回调任务API：程序目录执行：
+    `mkdir PORT_SCAN_JSON && python3 -m http.server 8000`
 
 ​		设置API后去SCANNN.py修改API地址
 
