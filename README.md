@@ -22,7 +22,7 @@
 
 #### 	PIP：
 
-​			`pip3 install requests`
+​			`pip3 install requests Flask`
 
 ## API
 
