@@ -44,11 +44,11 @@
 
 ## 示例
 
-#### 查看Shiro
+#### 框架指纹识别
 
 ![Shiro](https://xiaobai-src.oss-cn-hangzhou.aliyuncs.com/Github/SCANNN/Shiro.png)
 
-#### 查看Body
+#### 关键字特征识别
 
 ![Body](https://xiaobai-src.oss-cn-hangzhou.aliyuncs.com/Github/SCANNN/Body.png)
 
